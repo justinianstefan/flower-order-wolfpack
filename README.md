@@ -1,6 +1,8 @@
 # Flower Order Management System
 
-A production-grade Node.js + TypeScript backend for a flower ordering system, supporting both admin dashboard and iOS app clients.
+**Demo:** [https://flower-order-wolfpack.onrender.com/docs/](https://flower-order-wolfpack.onrender.com/docs/)
+
+A Node.js + TypeScript backend for a flower ordering system, supporting both admin dashboard and iOS app clients.
 
 ---
 
