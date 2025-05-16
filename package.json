@@ -18,7 +18,9 @@
     "migration:run": "npm run typeorm migration:run -- -d src/data-source.ts",
     "migration:revert": "npm run typeorm migration:revert -- -d src/data-source.ts",
     "db:init": "ts-node src/init-db.ts",
-    "seed": "ts-node src/seed.ts"
+    "seed": "ts-node src/seed.ts",
+    "render:build": "npm install && npm run build && npm run migration:run && node dist/seed.js",
+    "render:start": "node dist/server.js"
   },
   "dependencies": {
     "class-transformer": "^0.5.1",
