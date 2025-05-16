@@ -32,7 +32,8 @@ A production-grade Node.js + TypeScript backend for a flower ordering system, su
 
 ## 📖 API Documentation
 
-- **Swagger UI:** [http://localhost:3000/docs](http://localhost:3000/docs)
+- **Swagger UI (Deployed):** [https://flower-order-wolfpack.onrender.com/docs/](https://flower-order-wolfpack.onrender.com/docs/)
+- **Swagger UI (Local):** [http://localhost:3000/docs](http://localhost:3000/docs)
 - **Swagger JSON:** [http://localhost:3000/docs.json](http://localhost:3000/docs.json)
 
 ### Authentication / Client Type
